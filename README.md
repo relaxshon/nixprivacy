@@ -9,3 +9,4 @@ Roadmap :
 4. Add more security
 5. Gnome is running on x11 instead of wayland need to be fixed (don't know what's the issue with my setup and gnome i don't have this issue with KDE or Hyprland..)
 6. Find a better waybar and hyprland.conf
+7. KDE plasma6 is too unstable to be used sometimes librewolf or mullvad browser crash it's very annoying. I'm waiting for changes coming from KDE dev.
